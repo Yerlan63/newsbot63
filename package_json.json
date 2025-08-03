@@ -1,0 +1,25 @@
+{
+  "name": "telegram-news-bot",
+  "version": "1.0.0",
+  "description": "RSS news aggregator bot for Telegram",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "node bot.js"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^4.3.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "news",
+    "rss",
+    "automation"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
